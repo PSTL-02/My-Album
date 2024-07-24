@@ -1,0 +1,15 @@
+[
+    { "id":1, "name": "Vulgar" , "artist": "二口魔菜 Futakuchi Mana", "releaseDate": "27 February 2024" , "albumCover":"https://f4.bcbits.com/img/a2004720722_16.jpg"},
+    { "id":2, "name": "Take Me Back To Eden" , "artist": "Sleep Token" , "releaseDate": "19 May 2023" , "albumCover": "https://dyingscene.com/wp-content/uploads/2023/10/SleepTokenTMBTE.jpg" },
+    { "id":3, "name": "Frieren: Beyond Journey's End" , "artist": "YOASOBI", "releaseDate": "16 April 2024" , "albumCover": "https://i.scdn.co/image/ab67616d00001e02e7d7f32c21fe9e9d4a51799e" },
+    { "id":4, "name": "Wind Breaker" , "artist": "Ryo Takahashi" , "releaseDate":"19 June 2024" , "albumCover":"https://i.scdn.co/image/ab67616d0000b2739744dacf70443ed9ed09be6a" },
+    { "id":5, "name": "Kaiju No. 8" , "artist": " YUNGBLUD , OneRepublic" , "releaseDate": "1 June 2024" , "albumCover": "https://i.scdn.co/image/ab67616d00001e0238e6b819784a2dec882d9b29" },
+    { "id":6, "name": "Avenged Sevenfold" , "artist":"Avenged Sevenfold" , "releaseDate": "26 October 2007", "albumCover":"https://i.scdn.co/image/ab67616d0000b27333c52ca8309741c6999ca742" },
+    { "id":7, "name": "Rule #34" , "artist": "Fish in a Birdcage", "releaseDate":"1 April 2024" , "albumCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpPIb0KNsBUrsq_1GUXMTScZylylOODOs6A&s"},
+    { "id":8, "name": "Gasoline" , "artist": "I Prevail", "releaseDate":"28 March 2019" , "albumCover": "https://i1.sndcdn.com/artworks-Ub5ztol3HsMRvAL1-RG1ToA-t500x500.jpg"},
+    { "id":9, "name": "Ready For My Show " , "artist": "Ado", "releaseDate":" 6 February 2024" , "albumCover": "http://t1.gstatic.com/images?q=tbn:ANd9GcR6KRXWTiNOfWoeD2ABGLxhaNyKXoAQXxGhiaIxEuUuBAtgFxmKTqihjXczPqB0USN6FRlc4BUFhqqxiJrLpFNW7oLr4wWTDg"},
+    { "id":10, "name": "Peasant's Throne " , "artist": "Lilith Max", "releaseDate":" 19 January 2024" , "albumCover": "https://images.genius.com/765acd73dafdf6594c2050a4e56bf000.700x700x1.jpg"},
+    { "id":11, "name": "Remember That You Will Die " , "artist": "Polyphia", "releaseDate":"28 October 2022 " , "albumCover": "https://upload.wikimedia.org/wikipedia/en/6/60/Album_cover_of_Polyphia_-_Remember_That_You_Will_Die.jpg"},
+    { "id":12, "name": " The Death of Peace of Mind" , "artist": "Bad Omens", "releaseDate":"25 February 2022" , "albumCover": "https://merchbar.imgix.net/product/337/9912/wmv-lp6765493/LvdesGnwWMV_LP6765493.jpg?q=40&auto=compress,format&ar=1:1&w=1400"}
+    
+]
